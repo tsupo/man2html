@@ -31,7 +31,7 @@
  * Added some man pages for UNIX System V Rel4.x (with -DSHARE_MAN and/or
  * -DADD_MAN)
  * Deleted extra code. (This effect killed with -DORIG)
- * modified by H.Tsujimura <tsujimura543@okisoft.co.jp>, 12 July 1999
+ * modified by H.Tsujimura <tsujimura543@gmail.com>, 12 July 1999
  */
 
 /*
